@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Mar 2023 15:46:38 at https://www.sikkakaamyagreens.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*sikkakaamyagreens.in*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sikkakaamyagreens.in/ -O1 "C:\My Web Sites\sikkagreens" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*sikkakaamyagreens.in* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:47:06	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/js/jquery-ui.min.js (from https://www.sikkakaamyagreens.in/)
+15:47:08	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/css/animate.css (from https://www.sikkakaamyagreens.in/style.css)
+15:47:11	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/css/jquery-ui.min.css (from https://www.sikkakaamyagreens.in/style.css)
+15:47:11	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/img/images/bg2.png (from https://www.sikkakaamyagreens.in/style.css)
+15:47:11	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/img/images/bg3.png (from https://www.sikkakaamyagreens.in/style.css)
+15:47:11	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/img/images/bg4.png (from https://www.sikkakaamyagreens.in/style.css)
+15:47:11	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/img/ambar-banner.jpg (from https://www.sikkakaamyagreens.in/css/bootstrap-theme.css)
+15:47:11	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/img/contact.png (from https://www.sikkakaamyagreens.in/css/bootstrap-theme.css)
+15:47:12	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/css-popup/owl.video.play.png (from https://www.sikkakaamyagreens.in/css-popup/owl.carousel.css)
+15:47:12	Error: 	"Not Found" (404) at link https://www.sikkakaamyagreens.in/css/owl.video.play.png (from https://www.sikkakaamyagreens.in/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 125 links scanned, 114 files written (9406894 bytes overall) [8825853 bytes received at 259583 bytes/sec], 812592 bytes transferred using HTTP compression in 32 files, ratio 23%, 12.5 requests per connection
+(10 errors, 0 warnings, 0 messages)
